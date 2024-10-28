@@ -1,4 +1,8 @@
-![luckfox](https://github.com/LuckfoxTECH/luckfox-pico/assets/144299491/cec5c4a5-22b9-4a9a-abb1-704b11651e88)
+# NOTE
+**目前本仓库不再维护迁移到 https://github.com/LuckfoxTECH/luckfox_pico_lvgl_example**
+
+**The current repository is no longer maintained. Please migrate to https://github.com/LuckfoxTECH/luckfox_pico_lvgl_example**
+
 # Luckfox Pico LVGL example
 [中文](./README_CN.md)
 
